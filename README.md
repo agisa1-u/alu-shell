@@ -1,2 +1,2 @@
 # alu-shell
-New.project5
+Shell basics project: scripts that practice navigating the filesystem and manipulating files with the Bash shell. All scripts are in the `basics` directory.
